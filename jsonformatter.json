@@ -1,8 +1,8 @@
 {
-    "Index_1": 3,
-    "Index_2": 6,
+    "Index_1": 2,
+    "Index_2": 4,
     "UseCheckpoints": true,
     "UseBoth": false,
-    "UseApplovinOnly": true,
-    "UseUnityOnly": false
+    "UseApplovinOnly": false,
+    "UseUnityOnly": true
 }
