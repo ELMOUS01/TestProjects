@@ -3,6 +3,6 @@
     "Index_2": 1,
     "UseCheckpoints": true,
     "UseBoth": false,
-    "UseApplovinOnly": true,
-    "UseUnityOnly": false
+    "UseApplovinOnly": false,
+    "UseUnityOnly": true
 }
